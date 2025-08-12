@@ -1,7 +1,7 @@
 # 🏛 APDA Tech Committee
 
 [![Org Repos](https://img.shields.io/badge/Repos-APDA%20Tech%20Committee-blue?logo=github)](https://github.com/APDA-Tech-Committee?tab=repositories)
-[![Open Issues](https://img.shields.io/github/issues-search/APDA-Tech-Committee?query=is%3Aopen&label=Open%20Issues&color=orange)](https://github.com/search?q=org%3AAPDA-Tech-Committee+is%3Aissue+is%3Aopen&type=issues)
+[![Open Issues](https://img.shields.io/github/issues-search?query=org%3AAPDA-Tech-Committee%20is%3Aissue%20is%3Aopen&label=Open%20Issues&color=orange)](https://github.com/search?q=org%3AAPDA-Tech-Committee+is%3Aissue+is%3Aopen&type=issues)
 
 **Committee Lead:** Joey Rubas ([@JoeyRubas](https://github.com/JoeyRubas))  
 **League:** [apda.online](https://apda.online/)
