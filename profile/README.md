@@ -78,7 +78,7 @@ flowchart LR
     subgraph CB_BE[Backend]
       CB_NODE[Node.js]:::current --> CB_EXP[Express]:::current --> CB_PRISMA[Prisma]:::infra
       CB_PRISMA -.->|moving to →| CB_MONGO[(MongoDB)]:::target
-      CB_EXP -.->|moving to| CB_GCP[Google Cloud]:::target
+      CB_EXP --> CB_GCP[Google Cloud]:::current
     end
 
     CB_FE -->|API| CB_BE
