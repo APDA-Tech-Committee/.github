@@ -17,7 +17,7 @@ We maintain and improve the software that powers APDA’s tournaments, national 
 |---------|-----------|-------------|
 | **MIT-TAB**<br>Tournament tabulation platform used at APDA tournaments across North America. | [![Live Site](https://img.shields.io/badge/Live-nu--tab.com-blue?style=flat&logo=google-chrome)](https://nu-tab.com) | [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?logo=github&style=flat)](https://github.com/MIT-TAB/mit-tab) |
 | **NU-TAB Deployer**<br>One-click/GUI tournament setup for MIT-TAB instances. | [![Live Site](https://img.shields.io/badge/Live-nu--tab.com-blue?style=flat&logo=google-chrome)](https://nu-tab.com) | [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?logo=github&style=flat)](https://github.com/MIT-TAB/mittab-deploy) |
-| **APDA Standings (Black Rod)**<br>National rankings & results tracking for the league. | [![Live Site](https://img.shields.io/badge/Live-results.apda.online-blue?style=flat&logo=google-chrome)](https://results.apda.online) | [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?logo=github&style=flat)](https://github.com/apda-tech-committee/black-rod) |
+| **APDA Standings (Black Rod)**<br>National rankings & results tracking for the league. | [![Live Site](https://img.shields.io/badge/Live-results.apda.online-blue?style=flat&logo=google-chrome)](https://results.apda.online) | [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?logo=github&style=flat)](https://github.com/MIT-Tab/black-rod) |
 
 ---
 
